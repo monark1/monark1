@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/monark-bhardwaj/">LinkedIn</a> 
 </p>
 
------------------------------------------------------------
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> <br>
@@ -18,7 +18,7 @@
 ✨ Contributor in Girls Script Summer of Code  <br>
 ✨ Looking forward to applying my skills as a Software Engineer Intern <br> 
 <br>
------------------------------------------------------------
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
 <h3 align="left">Languages and Tools:</h3>
