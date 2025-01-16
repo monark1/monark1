@@ -11,10 +11,10 @@
 
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> <br>
 ✨ I'm a 3rd-year B.Tech Computer Science student<br>
-✨  Highly motivated and detail-oriented professional with a strong background in programming languages and Artificial intelligence. <br>
+✨  Highly motivated and detail-oriented professional with a strong background in programming languages and AI <br>
 ✨ Skilled in C, Java, Python, HTML, CSS, JavaScript, SQL and AI concepts | Machine Learning practitioner  <br>
-✨ Developer with experience in building predictive models and cloud-based solutions during my internship at Edunet Foundation<br>
-✨ Worked on exciting projects like VidyaSetu - AI Powered Ed Tech Platform, Spotify clone and a Travel Chatbot using IBM Cloud and Watson <br>
+✨ Developer with experience in building predictive models and cloud-based solutions during my internship<br>
+✨ Worked on exciting projects like VidyaSetu - AI Powered Ed Tech Platform, Spotify clone and a Travel Chatbot  <br>
 ✨ Contributor in Girls Script Summer of Code  <br>
 ✨ Looking forward to applying my skills as a Software Engineer Intern <br> 
 <br>
