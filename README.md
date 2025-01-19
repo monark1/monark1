@@ -34,5 +34,5 @@
   <img src="https://github.com/GSSoC24/Postman-Challenge/blob/7b99afdfc09cc774f5c8b2a639160d3dd6b25e24/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://github.com/GSSoC24/Postman-Challenge/blob/7b99afdfc09cc774f5c8b2a639160d3dd6b25e24/docs/assets/5.png" width="100px" height="100px" />
 </div>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monark1&show_icons=true&locale=en&layout=compact" alt="monark1" /></p>
 <!--- Body End -->
