@@ -38,4 +38,15 @@
     <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
     <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monark1&show_icons=true&locale=en&layout=compact" alt="monark1" /></p>
+
+<br>
+<p align="center">
+  <b>Thank you for visiting my profile! If you wanna support my work, consider buying me a coffee or tea. 😊</b>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/radhikamalpani" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"/>
+  </a>
+</p>
 <!--- Body End -->
