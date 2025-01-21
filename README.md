@@ -1,4 +1,4 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)
+![MasterHead](https://github.com/monark1/monark1/blob/main/githubBanner.jpg)
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/monark-bhardwaj/">Monark Bhardwaj</a> </h1>
 
 <!--- Adding Header Elements -->
