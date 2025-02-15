@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/monark1/monark1/blob/main/githubBanner.jpg)
+![MasterHead](https://github.com/monark1/monark1/blob/main/yes.gif)
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/monark-bhardwaj/">Monark Bhardwaj</a> </h1>
 
 <!--- Adding Header Elements -->
